@@ -14,7 +14,7 @@
 		3E53386E269F19DF004DE587 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E53386D269F19DF004DE587 /* Assets.xcassets */; };
 		3E533871269F19DF004DE587 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E53386F269F19DF004DE587 /* LaunchScreen.storyboard */; };
 		3E53387A269F2472004DE587 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E533879269F2472004DE587 /* Extensions.swift */; };
-		3E53387D269F4E87004DE587 /* Quotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E53387C269F4E87004DE587 /* Quotes.swift */; };
+		3E53387D269F4E87004DE587 /* Zen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E53387C269F4E87004DE587 /* Zen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		3E533870269F19DF004DE587 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E533872269F19DF004DE587 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E533879269F2472004DE587 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		3E53387C269F4E87004DE587 /* Quotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quotes.swift; sourceTree = "<group>"; };
+		3E53387C269F4E87004DE587 /* Zen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,11 +64,11 @@
 				3E533866269F19DE004DE587 /* SceneDelegate.swift */,
 				3E533868269F19DE004DE587 /* ViewController.swift */,
 				3E533879269F2472004DE587 /* Extensions.swift */,
+				3E53387C269F4E87004DE587 /* Zen.swift */,
 				3E53386A269F19DE004DE587 /* Main.storyboard */,
 				3E53386D269F19DF004DE587 /* Assets.xcassets */,
 				3E53386F269F19DF004DE587 /* LaunchScreen.storyboard */,
 				3E533872269F19DF004DE587 /* Info.plist */,
-				3E53387C269F4E87004DE587 /* Quotes.swift */,
 			);
 			path = RandomPhoto;
 			sourceTree = "<group>";
@@ -145,7 +145,7 @@
 			files = (
 				3E533869269F19DE004DE587 /* ViewController.swift in Sources */,
 				3E533865269F19DE004DE587 /* AppDelegate.swift in Sources */,
-				3E53387D269F4E87004DE587 /* Quotes.swift in Sources */,
+				3E53387D269F4E87004DE587 /* Zen.swift in Sources */,
 				3E533867269F19DE004DE587 /* SceneDelegate.swift in Sources */,
 				3E53387A269F2472004DE587 /* Extensions.swift in Sources */,
 			);
