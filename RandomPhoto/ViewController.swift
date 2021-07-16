@@ -7,10 +7,7 @@
 
 import UIKit
 
-struct Quotes: Codable {
-    var q: String = ""
-    var a: String = ""
-}
+
 
 class ViewController: UIViewController {
 
@@ -66,8 +63,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func refreshQuotesButton(_ sender: UIButton) {
-//        let arrow = UIImage(systemName: "arrow.clockwise")
-//        refreshQuotesButton.setImage(arrow, for:.normal)
+
         fetchDailyZen()
     }
     
